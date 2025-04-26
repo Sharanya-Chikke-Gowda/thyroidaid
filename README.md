@@ -47,7 +47,7 @@ plot_feature_importance(model, X)
 **Feature Distributions**
 
 Figure 1: Nodule Size Distribution
-https://github.com/Sharanya-Chikke-Gowda/thyroidaid/blob/main/Image/Distribution%20of%20Nodule_Size.png
+Image/Distribution of Nodule_Size.png
 
 Figure 2: T4 Level Distribution
 
