@@ -2,13 +2,13 @@
 
 **ThyroidAid** is a Python package designed for exploratory analysis and prediction of thyroid health risks based on clinical and lifestyle indicators.
 
-**Abstract**
+## Abstract
 ThyroidAid presents a machine learning-based system designed for the exploratory analysis and prediction of thyroid health risks. By analyzing clinical and lifestyle indicators, the project aims to support early diagnosis and risk stratification of thyroid disorders.
 
-**Introduction**
+## Introduction
 Thyroid disorders affect a significant portion of the global population, often remaining undiagnosed due to subtle or nonspecific symptoms. Predicting thyroid risk factors using machine learning models offers the potential to improve early diagnosis, optimize treatments, and better manage public health resources. This project applies a Random Forest classifier to predict thyroid disease risks based on multiple demographic and clinical features.
 
-**Methodology**
+## Methodology
 1. Data Preprocessing: Cleaning and handling missing values using pandas.
 2. Exploratory Data Analysis (EDA): Visualization of feature distributions using seaborn and matplotlib.
 3. Modeling: A Random Forest Classifier is trained to predict thyroid risk.
@@ -42,7 +42,7 @@ evaluate_model(model, X_test, y_test)
 plot_feature_importance(model, X)
 ```
 
-**Results**
+## Results
 
 **Feature Distributions**
 
@@ -88,7 +88,7 @@ Figure 10: Classification Model Report and Accuracy
 
 
 
-**Conclusion**
+## Conclusion
 This project demonstrates that thyroid disease risk can be effectively predicted using machine learning techniques, particularly Random Forest classifiers. The analysis highlights key features such as TSH levels, family history, and nodule size as major predictors. Future work may include refining the model through hyperparameter tuning and integrating other advanced machine learning models.
 
 ## Requirements
