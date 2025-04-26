@@ -50,33 +50,33 @@ Figure 1: Nodule Size Distribution
 [Image/Distribution of Nodule_Size.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20Nodule_Size.png)
 
 Figure 2: T4 Level Distribution
-Image/Distribution of T4_Level.png
+[Image/Distribution of T4_Level.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20T4_Level.png)
 
 Figure 3: T3 Level Distribution
-Image/Distribution of T3_Level.png
+[Image/Distribution of T3_Level.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20T3_Level.png)
 
 Figure 4: TSH Level Distribution
-Image/Distribution of TSH_Level.png
+[Image/Distribution of TSH_Level.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20TSH_Level.png)
 
 Figure 5: Diabetes Distribution
-Image/Distribution of Diabetes.png
+[Image/Distribution of Diabetes.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20Diabetes.png)
 
 Figure 6: Obesity Distribution
-Image/Distribution of Obesity.png
+[Image/Distribution of Obesity.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20Obesity.png)
 
 Figure 7: Smoking Distribution
-Image/Distribution of Smoking.png
+[Image/Distribution of Smoking.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Distribution%20of%20Smoking.png)
 
 **Model Evaluation**
 
 Figure 8: Diagnosis Distribution
-Image/Diagnosis Distribution.png
+[Image/Diagnosis Distribution.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Diagnosis%20Distribution.png)
 
 Figure 9: Top 10 Feature Importances
-Image/Top 10 Feature Importances.png
+[Image/Top 10 Feature Importances.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Top%2010%20Feature%20Importances.png)
 
 Figure 10: Classification Model Report and Accuracy
-Image/Classification Model (Random Forest) Accuracy.png
+[Image/Classification Model (Random Forest) Accuracy.png](https://raw.githubusercontent.com/Sharanya-Chikke-Gowda/thyroidaid/refs/heads/main/Image/Classification%20Model%20(Random%20Forest)%20Accuracy.png)
 
 ## Conclusion
 This project demonstrates that thyroid disease risk can be effectively predicted using machine learning techniques, particularly Random Forest classifiers. The analysis highlights key features such as TSH levels, family history, and nodule size as major predictors. Future work may include refining the model through hyperparameter tuning and integrating other advanced machine learning models.
